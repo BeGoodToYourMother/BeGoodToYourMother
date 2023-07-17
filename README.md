@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ... Dirt biking in New Zealand
-- ⚡ Fun fact: ... A group of stingrays is called a fever
+ 🌱 I’m currently learning ...
+ 💬 Ask me about ... Dirt biking in New Zealand
+ ⚡ Fun fact: ... A group of stingrays is called a fever
 -->
